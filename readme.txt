@@ -1,1 +1,2 @@
-Creating a new barnach is quick.
+Creating a new barnach is quick AND simple.
+
